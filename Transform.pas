@@ -13,7 +13,7 @@ type
   end;
 
   TPointList = array of TPoint;
-
+//git
 var
   GlobalScale: double;
   GlobalOffset: TPointDouble;
