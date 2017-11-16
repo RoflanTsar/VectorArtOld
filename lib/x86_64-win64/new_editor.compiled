@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.2\bin\x86_64-win64\fpc.exe" Date="1247518955"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiC:\Users\123\Desktop\Проекты\Lazarus\New editor 8\lib\x86_64-win64&quot; &quot;-FuC:\Users\123\Desktop\Проекты\Lazarus\New editor 8\New editor&quot; -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\123\Desktop\Проекты\Lazarus\New editor 8\&quot; &quot;-FUC:\Users\123\Desktop\Проекты\Lazarus\New editor 8\lib\x86_64-win64\&quot; -dLCL -dLCLwin32 new_editor.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
