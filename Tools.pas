@@ -19,7 +19,7 @@ type
     procedure MouseMove(x, y: integer); virtual; abstract;
     procedure MouseUp(x, y: integer); virtual; abstract;
   end;
-  //change
+  //change223
   TToolClass = class of TTool;
   TToolClassList=array of TToolClass;
 var
